@@ -10,11 +10,11 @@ export const AESKEY_DEFAULT = 'LSKDAJALSD';
  * GARMIN ACCOUNT
  */
 // 佳明中国区账号及密码
-export const GARMIN_USERNAME_DEFAULT =zhaizhangqing@163.com;
-export const GARMIN_PASSWORD_DEFAULT =1QAZ2wsx;
+export const GARMIN_USERNAME_DEFAULT ='zhaizhangqing@163.com';
+export const GARMIN_PASSWORD_DEFAULT ='1QAZ2wsx';
 // 佳明国际区区账号及密码
-export const GARMIN_GLOBAL_USERNAME_DEFAULT =zhaizhangqing@163.com;
-export const GARMIN_GLOBAL_PASSWORD_DEFAULT = 1QAZ2wsx;
+export const GARMIN_GLOBAL_USERNAME_DEFAULT ='zhaizhangqing@163.com';
+export const GARMIN_GLOBAL_PASSWORD_DEFAULT = '1QAZ2wsx';
 // 佳明迁移数量配置
 export const GARMIN_MIGRATE_NUM_DEFAULT =100;
 export const GARMIN_MIGRATE_START_DEFAULT =1;
